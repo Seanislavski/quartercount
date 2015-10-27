@@ -1,0 +1,36 @@
+Alaska
+Arizona
+California
+Connecticut
+Colorado
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Kansas
+Kentucky
+Louisiana
+Maryland
+Massachusetts
+Minnesota
+Mississippi
+Missouri
+Montana
+Nevada
+New Hampshire
+New York
+North Carolina
+North Dakota
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Wyoming
