@@ -1,27 +1,38 @@
+Alabama
 Alaska
 Arizona
+Arkansas
 California
-Connecticut
 Colorado
+Connecticut
+Delaware
 Florida
-Georgia
+Georgi
 Hawaii
 Idaho
 Illinois
+Indiana
+Iowa
 Kansas
 Kentucky
 Louisiana
+Maine
 Maryland
 Massachusetts
+Michigan
 Minnesota
 Mississippi
 Missouri
 Montana
+Nebraska
 Nevada
 New Hampshire
+New Jersey
+New Mexico
 New York
 North Carolina
 North Dakota
+Ohio
 Oklahoma
 Oregon
 Pennsylvania
@@ -33,4 +44,7 @@ Texas
 Utah
 Vermont
 Virginia
-Wyoming #manual edit end
+Washington
+West Virginia
+Wisconsin
+Wyoming
