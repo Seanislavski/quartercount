@@ -34,3 +34,4 @@ Utah
 Vermont
 Virginia
 Wyoming #manual edit end
+Michigan
