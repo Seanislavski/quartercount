@@ -35,3 +35,4 @@ Vermont
 Virginia
 Wyoming #manual edit end
 Michigan
+New mexico
